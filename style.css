@@ -91,7 +91,7 @@ body {
 
 .smCntnt {
     color: #3b3b3b;
-    display: flex;
+    display: none;
     justify-content: center;
     align-items: center;
     height: 100vh;
